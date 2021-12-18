@@ -2,5 +2,5 @@
     - 주소
         <https://www.acmicpc.net/>
 
-    - 풀이언어 : C
+    - 풀이언어 : C, Python3
 
