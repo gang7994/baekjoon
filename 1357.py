@@ -1,0 +1,11 @@
+x, y = map(str, input().split())
+
+xx = list(reversed(x))
+yy = list(reversed(y))
+xx = int(''.join(xx))
+yy = int(''.join(yy))
+result = str(xx + yy)
+result = list(result)
+result.reverse()
+result = int(''.join(result))
+print(result)
